@@ -1,35 +1,56 @@
+
+
 # Hi there, I'm Jaycy 👋
 
-### 💫 About Me
-- 🔭 I’m currently working on **[Tên dự án hiện tại của bạn]**
-- 🌱 I’m currently learning **[Ngôn ngữ/Công nghệ bạn đang học]**
-- 👯 I’m looking to collaborate on **Open Source projects**
-- 💬 Ask me about **Web Development, Python, or anything tech!**
-- 📫 How to reach me: **[Email của bạn]**
-- ⚡ Fun fact: **I love coding and [Sở thích khác]**
-
 ---
 
-### 🚀 Languages & Tools
+### 👤 Giới thiệu bản thân
+```javascript
+const info = {
+  fullName: 'Nguyen Thai Binh',
+  nickname: 'Jaycy',
+  pronouns: "he" | "him",
+  occupation: 'student',
+  location: 'nowhere',
+  Hobby&GoodAt: ['Game','Aim Training','Python','C++'],
+  email: 'binhn1292@gmail.com'
+};
+```
+---
+
+### 💻 Công nghệ và Ngôn ngữ sử dụng
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,python,nodejs,git,docker,mysql" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📜 Chứng chỉ (Certifications)
+- 🏆 **[Google Business Intelligence]** - [Google] | [**Xem chứng chỉ**](https://coursera.org/share/9deefde46aca98f11bcefb25cdeac82c).
+
+---
+
+### 🤝 Liên hệ với tôi
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mimh2&show_icons=true&theme=radical" alt="mimh2's GitHub stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimh2&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <a href="mailto:binhn1292@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/asupercalifragilisticexpialidocious" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://github.com/hnibneyugn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-### 🤝 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mimh2" height="30" width="40" /></a>
-<a href="https://fb.com/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mimh2" height="30" width="40" /></a>
+<p align="center">
+  <i>"Học tập là một hành trình, không phải là đích đến."</i>
 </p>
-
----
-*Last updated on: Dec 2025*
