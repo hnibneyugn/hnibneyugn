@@ -1,56 +1,69 @@
+# 🎮 Hi there, I'm Jaycy 👋
+### Data Analyst (Junior) | MERN Web Developer | Gamer 🎯
 
-
-# Hi there, I'm Jaycy 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=550&lines=Data+%2B+Web+Developer;MERN+Stack+Enthusiast;Aim+Training+Addict;Learning+Never+Stops" />
+</p>
 
 ---
 
-### 👤 Giới thiệu bản thân
+## 👤 About Me
+
 ```javascript
-const info = {
+const jaycy = {
   fullName: 'Nguyen Thai Binh',
   nickname: 'Jaycy',
-  pronouns: "he" | "him",
-  occupation: 'student',
-  location: 'nowhere',
-  Hobby&GoodAt: ['Game','Aim Training','Python','C++'],
+  role: ['Student', 'Data Analyst (Junior)', 'Web Developer'],
+  stackFocus: ['Data Analysis', 'MERN Stack'],
+  interests: ['Gaming', 'Aim Training', 'Data', 'Web Dev'],
+  languages: ['C++', 'Python', 'JavaScript'],
   email: 'binhn1292@gmail.com'
 };
 ```
----
+## 🧠 Tech Stack
+## 💻 Programming Languages
+<p align="left"> <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
 
-### 💻 Công nghệ và Ngôn ngữ sử dụng
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+## 🌐 Web Development – MERN Stack
+<p align="left"> <img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=black"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> </p>
 
----
+## ⚙️ Backend & Tools
+<p align="left"> <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> </p>
 
-### 📜 Chứng chỉ (Certifications)
-- 🏆 **[Google Business Intelligence]** - [Google] | [**Xem chứng chỉ**](https://coursera.org/share/9deefde46aca98f11bcefb25cdeac82c).
+## 📊 Data Analytics & Visualization
+<p align="left"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/> </p>
 
----
+## 🎯 I’m Currently Focused On
 
-### 🤝 Liên hệ với tôi
-<p align="left">
-  <a href="mailto:binhn1292@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.facebook.com/asupercalifragilisticexpialidocious" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://github.com/hnibneyugn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<details>
+<summary><b>🧠 Data & Analytics</b></summary>
 
----
+- 📊 Python, Pandas, NumPy
+- 📈 Power BI & Data Visualization
+- 🔍 Turning data into insights
 
-<p align="center">
-  <i>"Học tập là một hành trình, không phải là đích đến."</i>
-</p>
+</details>
+
+<details>
+<summary><b>🌐 Web Development (MERN)</b></summary>
+
+- ⚙️ MongoDB, Express, React, Node.js
+- 🔐 JWT, RESTful API
+- 🧱 Clean & scalable code
+
+</details>
+
+<details>
+<summary><b>🎮 Gaming Mindset</b></summary>
+
+- 🎯 Aim training
+- 🧠 Focus & discipline
+- 🚀 Continuous improvement
+
+</details>
+
+
+
+## 🤝 Connect With Me
+<p align="left"> <a href="mailto:binhn1292@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.facebook.com/asupercalifragilisticexpialidocious"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://github.com/hnibneyugn"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+<p align="center"> <i>"Train like a gamer. Think like an analyst. Build like a developer."</i> </p>
