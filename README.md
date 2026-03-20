@@ -28,7 +28,7 @@ const jaycy = {
 <p align="left"> <img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=black"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> </p>
 
 ## ⚙️ Backend & Tools
-<p align="left"> <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> </p>
 
 ## 📊 Data Analytics & Visualization
 <p align="left"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/> </p>
@@ -40,7 +40,6 @@ const jaycy = {
 
 - 📊 Python, Pandas, NumPy
 - 📈 Power BI & Data Visualization
-- 🔍 Turning data into insights
 
 </details>
 
@@ -49,7 +48,6 @@ const jaycy = {
 
 - ⚙️ MongoDB, Express, React, Node.js
 - 🔐 JWT, RESTful API
-- 🧱 Clean & scalable code
 
 </details>
 
